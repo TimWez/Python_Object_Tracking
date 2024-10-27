@@ -4,3 +4,5 @@ This repository contains the code used to track green objects sliding over a flo
 main.py creates the (x,t) and (v,t) diagrams
 
 normal.py plots the normal distribution graphs.
+
+airresistance_work_modulation.py modulates and plots the work done by the airresitance.
